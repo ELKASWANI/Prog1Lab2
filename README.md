@@ -1,1 +1,5 @@
-# Prog1Lab2
+ 1. Select 3 of your programs from Lab #1 and adapt them to receive the input from the user (System.in), instead of hardcoded variable values.
+2. Write a program that calculates the Body Mass Index (BMI) of a person. The user should input the weight in pounds and height in feet, and the program should output the weight converted to kilograms, height converted to meters, and the calculated BMI (BMI = Kg/(m2)).
+3. Write a program that prompts the user for an amount of seconds and displays the time in the format minutes:seconds. For example, 500 seconds should be shown and 8:20.
+4. Write a program that prompts the user for the temperature in Celsius in the past 3 days and output the average temperature.
+5. Write a program that prompts the user for a name in the format lastname, firstname and output the name in the format Firstname Lastname. The input can contain any mix of upper case and lower case letters. In the output, the first letter of each name should be capitalized, the comma should be removed, and first name should come first.
